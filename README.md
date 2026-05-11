@@ -17,5 +17,3 @@ Archivos STL para impresión 3D de las piezas del gimbal.
 Fotos y videos del proyecto en funcionamiento.
 
 ---
-
-*Actualiza este README con más detalles sobre tu proyecto.*
